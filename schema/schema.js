@@ -27,3 +27,4 @@ const Query = new GraphQLObjectType({
 module.exports = new GraphQLSchema({
     query: Query
 });
+console.log('test');
